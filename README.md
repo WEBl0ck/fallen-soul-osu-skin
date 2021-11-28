@@ -2,6 +2,8 @@
 
 ## almost all sounds of this skin, as well as some details are taken from [WhiteCat CK](https://github.com/myangelaku/whitecat-skins), also i take slider-follow-circle from [Rafis skin](https://gist.github.com/Dinoxe/0f89bbe0c88ef9d468e49df3da8f8932), only changed the color.
 
+## you can download this skin from releases panel or click [here](/WEBl0ck/fallen-soul-osu-skin/releases/download/osu-skin/Fallen.Soul.osk)
+
 # skip
 ![gameplay-photo](https://i.imgur.com/bqES17A_d.webp?maxwidth=760&fidelity=grand)
 
